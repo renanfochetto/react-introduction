@@ -1,4 +1,4 @@
-# Introdução ao React - Básico
+# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30" height="30"> Introdução ao React - Básico
 
 Desenvolvido durante o curso introdutório ao React, na Escola de Tecnologia Alura como parte da formação em React.
 
